@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+knowledge_base/
+*.pdf
+.claude
+.agents
